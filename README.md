@@ -10,8 +10,10 @@ SNMP Expression Parser implemented with pyparsing.
 
 SNMP Expression Language is an utility language used to implement SNMP checks.
 
+## 1. Examples<a name="examples"></a>
+
 ```
-1.3.6.1.2.1.1.1.0@ =~ "Linux"
+1.3.6.1.2.1.1.1.0@ =~ "Linux  or 1.3.6.1.2.1.2.2.1.8@[0][1] == 1"
 ```
 
 ## Authors
