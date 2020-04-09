@@ -8,7 +8,7 @@ SNMP Expression Parser implemented with pyparsing.
 
 ## 1. Introduction<a name="introduction"></a>
 
-SNMP Expression Language is an utility language used to implement SNMP checks.
+SNMP Expression Language is an utility language used by the <a href="https://sanet.labs.it/homepage/">Sanet Project</a> to implement SNMP checks.
 
 ## 1. Examples<a name="examples"></a>
 
